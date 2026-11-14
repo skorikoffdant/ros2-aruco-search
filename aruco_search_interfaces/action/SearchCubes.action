@@ -1,0 +1,8 @@
+int32 target_count
+---
+int32[] ids
+geometry_msgs/Point[] positions
+---
+int32 detected
+int32 localized
+string phase
